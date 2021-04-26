@@ -1,5 +1,5 @@
 //#1
-let myNumber = 15;
+let myNumber = ;
 if (typeof myNumber != 'number') {
     console.log('This is not a number.');
 }
