@@ -39,4 +39,6 @@ switch (item) {
 }
 
 //#3
-Ran out of time!
+let min = 50;
+let max = 100;
+console.log(Math.floor(Math.random()* (max-min) + min));
